@@ -3,8 +3,7 @@ const data = [
     id: 1,
     image: './images/save_150.webp',
     title: 'Save $150 on select new Surface Laptop Go',
-    desc:
-      'Get the style, performance, and battery life you need - all in our lightest Surface Laptop yet.',
+    desc: 'Get the style, performance, and battery life you need - all in our lightest Surface Laptop yet.',
     link: 'Shop now',
   },
   {
@@ -18,9 +17,8 @@ const data = [
     id: 3,
     image: './images/microsoft_365.webp',
     title: 'Microsoft 365',
-    desc:
-      'Premium Office apps, extra cloud storage, advanced security, and more - all in one convenient subscription.',
-    link: 'For up to 6 people',
+    desc: 'Premium Office apps, extra cloud storage, advanced security, and more - all in one convenient subscription.',
+    link: 'Shop now',
   },
   {
     id: 4,
@@ -29,6 +27,6 @@ const data = [
     desc: 'Precision, power, and excitement - all in one pretty package.',
     link: 'Shop now',
   },
-]
+];
 
-export default data
+export default data;
